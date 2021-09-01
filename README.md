@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<div>
+  <a href="https://beacons.ai/jvfalco1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvfalco1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvfalco1&layout=compact&theme=dracula"/>
+
+  </div>
 <!--
 **jvfalco1/jvfalco1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
